@@ -1,0 +1,33 @@
+July 11, 2024 
+
+OBJECT RECOGNITION
+ 
+Overview 
+Object recognition is a fundamental task in computer vision that involves identifying and classifying objects within an image. This process is essential for applications such as image search, autonomous driving, and surveillance. By detecting and labeling objects, systems can interpret visual data and perform tasks that require an understanding of the environment.
+Technical Stack 
+
+Python (3.12.4): We will use Python as the backend programming language, with FastAPI for serving RESTful APIs to the frontend. FastAPI is chosen for its high performance and ease of use, especially when building APIs that require asynchronous capabilities.
+React Js (18.3.1): We will use React for the frontend, along with popular libraries like Material-UI or Bootstrap for themes and styling. Axios will handle API calls due to its simplicity and flexibility. React's component-based architecture allows for building a dynamic and responsive user interface.
+Database (NoSQL - MongoDB): We will use MongoDB for the application because of its flexibility and scalability. MongoDB is suitable for applications that require a flexible schema and scalability, especially with unstructured or semi-structured data. Its document-oriented storage is particularly advantageous for handling complex data structures and large volumes of data.
+Logging: We will use the standard logging library as a robust option. It provides a flexible framework for logging messages from the application, allowing us to record errors, warnings, and other information for debugging and analysis. Its integration with various handlers and formatters makes it versatile for different logging requirements, ensuring that logs can be easily managed, formatted, and directed to various outputs like files, consoles, or external logging services.
+
+
+
+Model Comparison:
+ 
+
+Implementation Plan: 
+We propose approximately 1.5 months for this project, with the following timeline breakdown:
+Requirements Gathering: Conduct thorough discussions with stakeholders to understand their needs and preferences. This phase includes defining the project scope, identifying key features, and documenting technical and non-technical requirements. (4 days)
+System Design: Plan 1 week for developing detailed system architecture and user interface design. This phase includes creating prototypes to validate concepts and gather feedback iteratively. It involves creating wireframes, data flow diagrams, and selecting technology stacks and design patterns. (1 week)
+Front-end Development: Allocate 1 week for developing UI/UX features using ReactJS and selected libraries (e.g., Material-UI, Bootstrap). Focus on responsive design and usability testing. This phase includes implementing user authentication, navigation, and interactive elements while ensuring cross-browser compatibility and performance optimization. (1 week)
+Back-end Development: Allocate 2 weeks for implementing core features using Python with FastAPI for backend APIs and MongoDB for database integration. Include robust error handling, data validation, and security measures. This phase covers setting up the server environment, API endpoints, database schemas, and implementing business logic and third-party integrations. (2 weeks)
+Testing: Dedicate 1 week for rigorous testing, including unit testing, integration testing, and user acceptance testing (UAT). Ensure comprehensive test coverage to identify and resolve issues early. This phase also includes performance testing, security testing, and preparing test documentation to ensure the application meets all quality standards. (1 week)
+Deployment: Allocate 0.5 weeks for deploying the application to a secure hosting environment and configuring it for standalone PC usage. Include the setup of monitoring and logging for ongoing maintenance. This phase involves setting up the production environment, performing final sanity checks, and configuring automated deployment pipelines for continuous integration and continuous deployment . (0.5 weeks)
+Team Composition 
+Based on the proposed timeline and scope of work, we will handle the development, but we need assistance from a team lead for guidance and support during development and testing. The team lead will help ensure best practices and oversee the testing process.
+
+
+Our Understanding 
+An object recognition project involves gathering annotated data, selecting a suitable pretrained model (e.g., YOLO, SSD), evaluating its performance, deploying it for real-time processing, and iteratively refining the model to enhance accuracy and adaptability. 
+

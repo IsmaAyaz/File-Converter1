@@ -1,0 +1,43 @@
+What is AI? 
+AI (Artificial Intelligence): Technology that enables machines to perform tasks that typically 
+require human intelligence, like learning, problem-solving, and understanding natural language. 
+Key Concepts and Uses: 
+1. Deep Learning: A subset of AI that uses neural networks with many layers to learn and 
+make decisions from large amounts of data. 
+ Uses: Used in image and speech recognition, autonomous vehicles, and healthcare 
+diagnostics. 
+2. CNN (Convolutional Neural Networks): A type of deep learning network designed for 
+processing and analyzing visual data, like images and videos. 
+ Uses: Power applications such as facial recognition, object detection in images, and 
+video analysis. 
+3. NLP (Natural Language Processing): AI technology that allows machines to understand, 
+interpret, and generate human language. 
+ Uses: Used in chatbots, language translation, sentiment analysis of text, and speech 
+recognition systems. 
+Static Websites: 
+1. Fixed Content: The content doesn't change unless manually updated by someone. 
+2. Faster Loading: Generally loads quickly because the content is pre-built. 
+3. Simple: Easier to create and host. Great for small sites like personal blogs or company info 
+pages. 
+Dynamic Websites: 
+ Changing Content: The content can change based on user interaction or other factors (like 
+time, location, etc.). 
+ Slower Loading: Might take slightly longer to load because the content is often generated 
+on the fly. 
+ Complex: More complex to create and manage. Used for larger sites like social media 
+platforms, e-commerce sites, or web applications. 
+DOM (Document Object Model): 
+DOM is a representation of a web page in a structured format that allows programs and scripts to 
+dynamically access and update the content, structure, and style of the document. Think of it as a 
+tree of objects representing the HTML elements of a web page. 
+ 
+Virtual DOM: 
+Virtual DOM is a concept used in modern web development frameworks like React. It is a 
+lightweight copy of the actual DOM. Changes are first applied to the Virtual DOM, and then a 
+comparison is made between the Virtual DOM and the actual DOM. Only the differences are 
+updated in the actual DOM, making the updates more efficient and faster. 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,31 @@
+Google Dorking 
+Google Dorking refers to using specific search terms or operators on Google to find specific 
+information that is not easily accessible through conventional searches. It's often used by 
+researchers, security professionals, or hackers to discover sensitive data or vulnerabilities on 
+websites by crafting advanced search queries that reveal hidden or private information 
+unintentionally exposed on the internet. Common search operators used in Google Dorking 
+include  
+ filetype: to find specific file types. 
+ site: to search within a specific domain.  
+ intitle: to find pages with certain keywords in the title. 
+SQL & Non-SQL 
+SQL (Structured Query Language) Databases: These databases use a structured format with 
+tables, rows, and columns to store data. They are like organized spreadsheets with relationships 
+between data, using foreign keys to maintain these relationships.  
+NoSQL (Not Only SQL) Databases: These databases store data in various ways, such as 
+documents, key-value pairs, wide-columns, or graphs. They are more flexible and can handle 
+large amounts of unstructured or semi-structured data. Examples include MongoDB, Redis, and 
+Cassandra.  
+Metaverse: 
+Metaverse is a collective virtual shared space, Like the internet, the metaverse will help us 
+connect with people when we aren’t physically in the same place and get us even closer to that 
+feeling of being together in person. The Metaverse is a virtual world where people can interact 
+with each other and digital environments in real-time. It's like an online universe where we can 
+socialize, work, play, and explore using avatars and digital items, blending real and digital 
+experiences. 
+ 
+ 
+ 
+ 
+ 
+ 

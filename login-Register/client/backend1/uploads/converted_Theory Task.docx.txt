@@ -1,0 +1,13 @@
+Chainlit
+Chainlit is a framework designed to simplify the development of applications that leverage Large Language Models (LLMs), such as those provided by OpenAI. These models can understand and generate human-like text, which can be used in various applications, such as chatbots, content generation, and more. It focuses on creating interactive dialogues and managing conversations between users and AI. 
+How Chainlit Works:
+Integration with LLMs: Chainlit provides an interface to integrate with large language models. Developers can connect their applications to these models to perform tasks like text generation, translation, summarization, and more.
+Frontend and Backend: Chainlit supports both frontend and backend development, making it easier to create a complete application. 
+Data Management: It helps manage and process data, ensuring that the information sent to and received from the LLM is handled properly.
+Streamlit
+Streamlit is a framework used for creating data-driven web apps with minimal effort. It allows us to turn Python scripts into interactive web apps by simply adding a few commands. It's popular for data visualization, machine learning models, and dashboards, as it provides a simple way to display data, graphs, and user inputs.  Streamlit is widely used by data scientists and developers to share insights, explore data, and create user-friendly interfaces for interacting with data.
+How Streamlit Works:
+User Interface Creation: Streamlit provides an easy way to build user interfaces using simple Python code. Developers can use Streamlit's built-in functions to create interactive elements like text, charts, sliders, buttons, and more. This allows for quick and intuitive creation of dashboards and apps.
+Backend Integration: Streamlit handles the backend processing by running the Python script that contains the logic of the application. It can connect to various data sources, perform computations, and use machine learning models. The results are then displayed on the frontend.
+Real-Time Updates: Streamlit apps update in real-time. Developers can see their changes instantly without restarting the server.
+Deployment: Streamlit supports easy deployment options, allowing developers to make their applications accessible to users with minimal setup.
